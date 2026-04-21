@@ -79,3 +79,4 @@ Modern web application showcasing advanced UI and performance optimization
 * GitHub: github.com/Modestayn
 * Telegram: @Modestayn
 * Location: Kyiv, Ukraine
+* Website: https://personal-weebsite-kotartem.netlify.app/
