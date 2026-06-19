@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Frontend Developer with 3.5+ years of experience in building scalable and high-performance web applications. I specialize in **React** and **TypeScript** ecosystems with a strong focus on performance, clean architecture, and system reliability. I have a proven track record of delivering production-grade solutions in **Fintech** and **Retail** domains.
+Frontend Developer with 3.5+ years of experience in building scalable and high-performance web applications. I specialize in **React**, **Vue**, and **TypeScript** ecosystems with a strong focus on performance, clean architecture, and system reliability. I have a proven track record of delivering production-grade solutions in **Fintech** and **Retail** domains.
 
 I am also a **Programming Instructor**, helping developers grow through structured learning and mentorship.
 
@@ -19,7 +19,7 @@ I am also a **Programming Instructor**, helping developers grow through structur
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** JavaScript (ES6+), TypeScript, React, Redux (RTK), Zustand, TanStack Query
+* **Frontend:** JavaScript (ES6+), TypeScript, React, Vue 3, Redux (RTK), Zustand, TanStack Query
 * **UI & Styling:** Tailwind CSS, Material UI, Ant Design, Shadcn/ui, Framer Motion
 * **Backend Integration:** Node.js (Express), NestJS, PostgreSQL (TypeORM/Prisma), REST API
 * **Tools & Environment:** Vite, Git, Docker, Linux, Figma
@@ -36,13 +36,13 @@ I am also a **Programming Instructor**, helping developers grow through structur
 * **Stack:** Laravel 11 (API) + React (SPA), PostgreSQL, Reverb (WebSockets).
 * **Key Features:** Full educational lifecycle management, real-time chat, automated Telegram notifications, and profit analytics.
 
-### 💳 Payment Processing Backend System
+### 💳 Payment Processing System
 
-*Backend service simulating a secure payment management lifecycle.*
+*Secure payment management lifecycle platform.*
 
-* **Stack:** NestJS, PostgreSQL, TypeScript.
+* **Stack:** NestJS, PostgreSQL, TypeScript, Vue 3 (Frontend).
 * **Key Features:** Implementation of complex payment session workflows (creation, authorization, confirmation, partial/full refunds, and cancellations).
-* **Architecture:** Developed a robust state machine logic, handled edge cases (timeouts, API failures), implemented detailed transaction history tracking, and achieved high reliability through unit testing.
+* **Architecture:** Robust state machine logic, handled edge cases (timeouts, API failures), detailed transaction history tracking, and high reliability through unit testing.
 
 ---
 
@@ -67,7 +67,7 @@ As a Team Lead, I believe that quality products are built through effective proc
 
 ## 🤝 Connect With Me
 
-* **Email:** [kotartemmodestayn@gmail.com](https://www.google.com/search?q=mailto%3Akotartemmodestayn%40gmail.com)
-* **GitHub:** [github.com/Modestayn](https://www.google.com/search?q=https://github.com/Modestayn)
-* **Telegram:** [@Modestayn](https://www.google.com/search?q=https%3A%2F%2Ft.me%2FModestayn)
+* **Email:** [kotartemmodestayn@gmail.com](mailto:kotartemmodestayn@gmail.com)
+* **GitHub:** [github.com/Modestayn](https://github.com/Modestayn)
+* **Telegram:** [@Modestayn](https://t.me/Modestayn)
 * **Website:** [personal-weebsite-kotartem.netlify.app](https://personal-weebsite-kotartem.netlify.app/)
