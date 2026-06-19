@@ -70,4 +70,4 @@ As a Team Lead, I believe that quality products are built through effective proc
 * **Email:** [kotartemmodestayn@gmail.com](https://www.google.com/search?q=mailto%3Akotartemmodestayn%40gmail.com)
 * **GitHub:** [github.com/Modestayn](https://www.google.com/search?q=https://github.com/Modestayn)
 * **Telegram:** [@Modestayn](https://www.google.com/search?q=https%3A%2F%2Ft.me%2FModestayn)
-* **Website:** [personal-weebsite-kotartem.netlify.app](https://www.google.com/search?q=https%3A%2F%2Fpersonal-weebsite-kotartem.netlify.app%2F)
+* **Website:** [personal-weebsite-kotartem.netlify.app](https://personal-weebsite-kotartem.netlify.app/)
