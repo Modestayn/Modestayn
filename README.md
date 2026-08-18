@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Frontend Developer with 3.5+ years of experience in building scalable and high-performance web applications. I specialize in **React**, **Vue**, and **TypeScript** ecosystems with a strong focus on performance, clean architecture, and system reliability. I have a proven track record of delivering production-grade solutions in **Fintech** and **Retail** domains.
+Frontend Developer with 3.5+ years of experience in building scalable and high-performance web applications. I specialize in **React**, **React Native**, **Vue**, and **TypeScript** ecosystems with a strong focus on performance, clean architecture, and system reliability. I have a proven track record of delivering production-grade solutions in **Fintech** and **Retail** domains.
 
 I am also a **Programming Instructor**, helping developers grow through structured learning and mentorship.
 
@@ -19,7 +19,7 @@ I am also a **Programming Instructor**, helping developers grow through structur
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** JavaScript (ES6+), TypeScript, React, Vue 3, Redux (RTK), Zustand, TanStack Query
+* **Frontend:** JavaScript (ES6+), TypeScript, React, React Native, Reanimated, Vue 3, Redux (RTK), Zustand, TanStack Query
 * **UI & Styling:** Tailwind CSS, Material UI, Ant Design, Shadcn/ui, Framer Motion
 * **Backend Integration:** Node.js (Express), NestJS, PostgreSQL (TypeORM/Prisma), REST API
 * **Tools & Environment:** Vite, Git, Docker, Linux, Figma
